@@ -1,4 +1,4 @@
-# Project 1 - Diwali Sales Analysis
+# [Project 1 - Diwali Sales Analysis](https://github.com/arpit13012003/Diwali-Sales-Analysis)
 
 > A Python-based project for analyzing Diwali sales data.
 
