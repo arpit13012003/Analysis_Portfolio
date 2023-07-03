@@ -1,27 +1,37 @@
-# Diwali Sales Project
-
-![Project Logo](path/to/logo.png)
+# Project 1 - Diwali Sales Analysis
 
 > A Python-based project for analyzing Diwali sales data.
 
 ## Features
 
-- Data analysis and visualization of Diwali sales data.
-- Generation of sales reports and insights.
-- Predictive modeling for sales forecasting.
-- Interactive user interface for easy data exploration.
+- Performed data cleaning and manipulation
+- Performed Exploratory Data Analysis (EDA) using Pandas, Matplotlib and Seaborn Libraries
+- Improved sales by identifying most selling product categories and products
 
-## Technologies Used
+# Project 2 - Customer Segmentation 
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Flask (if applicable for the user interface)
+> A Python-based project for analyzing Customer Purchase Datasets.
 
-## Installation and Setup
+## Features
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/diwali-sales-project.git
+- Clustered data using K-Means with evaluation metrics
+- Dimensionality Reduction using standard PCA and variants
+- Created interactive plots
+
+# Project 3 - Music Store Analysis
+
+> A SQL-based project for analyzing Music Store Data.
+
+## Features
+
+- Successfully conducted a comprehensive analysis of a music store's data using MySQL
+- Utilized SQL queries to extract meaningful insights
+
+# Project 4 - Airbnb Analysis  
+
+> A Tableau-based project for analyzing Airbnb Data.
+
+## Features
+
+- Successfully conducted a comprehensive analysis of a music store's data using MySQL
+- Utilized SQL queries to extract meaningful insights
