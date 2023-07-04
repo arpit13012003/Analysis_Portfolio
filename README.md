@@ -10,7 +10,7 @@
 - Performed Exploratory Data Analysis (EDA) using Pandas, Matplotlib and Seaborn Libraries
 - Improved sales by identifying most selling product categories and products
 
-# Project 2 - Customer Segmentation 
+# [Project 2 - Customer Segmentation](https://github.com/arpit13012003/Customer-Segmentation) 
 
 > A Python-based project for analyzing Customer Purchase Datasets.
 
@@ -20,7 +20,7 @@
 - Dimensionality Reduction using standard PCA and variants
 - Created interactive plots
 
-# Project 3 - Music Store Analysis
+# [Project 3 - Music Store Analysis](https://github.com/arpit13012003/Music-Store-Analysis)
 
 > A SQL-based project for analyzing Music Store Data.
 
