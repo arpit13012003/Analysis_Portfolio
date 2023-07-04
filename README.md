@@ -29,7 +29,7 @@
 - Successfully conducted a comprehensive analysis of a music store's data using MySQL
 - Utilized SQL queries to extract meaningful insights
 
-# Project 4 - [Project 1 - Airbnb Analysis](https://github.com/arpit13012003/Airbnb-Analysis)  
+# [Project 4 - Airbnb Analysis](https://github.com/arpit13012003/Airbnb-Analysis)  
 
 > A Tableau-based project for analyzing Airbnb Data.
 
