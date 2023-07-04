@@ -29,11 +29,13 @@
 - Successfully conducted a comprehensive analysis of a music store's data using MySQL
 - Utilized SQL queries to extract meaningful insights
 
-# Project 4 - Airbnb Analysis  
+# Project 4 - [Project 1 - Airbnb Analysis](https://github.com/arpit13012003/Airbnb-Analysis)  
 
 > A Tableau-based project for analyzing Airbnb Data.
 
 ## Features
 
-- Successfully conducted a comprehensive analysis of a music store's data using MySQL
-- Utilized SQL queries to extract meaningful insights
+- Created and visualized comprehensive Airbnb analytics using Tableau.
+- Developed interactive Tableau dashboards to showcase key Airbnb trends and insights.
+- Analyzed multiple datasets in Tableau to optimize pricing strategies and enhance guest satisfaction.
+
